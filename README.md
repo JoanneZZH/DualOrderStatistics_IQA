@@ -1,8 +1,7 @@
 # Deep Blind Image Quality Assessment Using Dual-Order Statistics
 
-This repository is the official PyTorch implementation of paper "[Deep Blind Image Quality Assessment Using Dual-Order Statistics](https://ieeexplore.ieee.org/abstract/document/9859608)" in ICME2022. The framework is shown below.
+This repository is the official PyTorch implementation of paper "[Deep Blind Image Quality Assessment Using Dual-Order Statistics](https://ieeexplore.ieee.org/abstract/document/9859608)" in ICME2022. 
 
-![Framework](D:\论文\IQA_GCP\Blind Image Quality Assessment Using Dual-order Statistics_0407\imgs\Framework.png)
 
 ### Requirements
 
